@@ -1,11 +1,16 @@
 # GEVAUDAN
 
-Gluster Environment Vulnerable AUthentication Data Access & Nuke
+Gluster Environment Vulnerable AUthentication Data Access & Nuke.
 
 ## Getting Started
 
 Gevaudan is a Red Hat GlusterFS exploit for CVEs 2018-1088 & 2018-1112.
 Available in both standalone and metasploit module formats.
+
+## Presentations
+|#| Date | Conference |  Link to Video | Link to Slides |
+|---|---|---|---|---|
+|1|11-AGO-2018|DEFCON 26 Data Duplication Village| TBA | https://drive.google.com/open?id=1O1Bk4iXlsmO8cq9aCvAv_TFIvsL-d2YzUZga5k_f_Xg |
 
 ### Running
 
