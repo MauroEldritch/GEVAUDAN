@@ -10,7 +10,7 @@ Available in both standalone and metasploit module formats.
 ## Presentations
 |#| Date | Conference |  Link to Video | Link to Slides |
 |---|---|---|---|---|
-|1|11-AGO-2018|DEFCON 26 Data Duplication Village| TBA | https://drive.google.com/open?id=1O1Bk4iXlsmO8cq9aCvAv_TFIvsL-d2YzUZga5k_f_Xg |
+|1|11-AGO-2018|DEFCON 26 Data Duplication Village| https://goo.gl/nwaB13 | https://drive.google.com/open?id=1O1Bk4iXlsmO8cq9aCvAv_TFIvsL-d2YzUZga5k_f_Xg |
 
 ### Running
 
