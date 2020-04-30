@@ -13,4 +13,4 @@ RUN mkdir /mnt/gluster_volume
 RUN chmod 777 /mnt/gluster_volume
 CMD 	/etc/init.d/glusterfs-server start && \
 	echo 'PS1="\u@$(hostname -i):\w# "' >> /root/.bashrc && \
-	/bin/bash
+	sleep infinity

@@ -12,7 +12,7 @@ class MetasploitModule < Msf::Exploit::Remote
 		super(update_info(info,
 			'Name'           => 'GlusterFS: Privilege escalation via gluster_shared_storage',
 			'Description'    => %q{	
-                A privilege escalation flaw was found in gluster snapshot scheduler. Any gluster client allowed to mount gluster volumes could also mount shared gluster storage volume and escalate privileges by scheduling malicious cronjob via symlink. Set the CMD variable of the linux/$ARCH'/exec payload to the command that will be setup in a cron file to run as root.
+                A privilege escalation flaw was found in gluster snapshot scheduler. Any gluster client allowed to mount gluster volumes could also mount shared gluster storage volume and escalate privileges by scheduling malicious cronjob via symlink. Set the CMD variable of the linux/$ARCH/exec payload to the command that will be setup in a cron file to run as root.
             },
             'Arch'          => [ ARCH_X86, ARCH_X64 ],
 			'License'        => MSF_LICENSE,
